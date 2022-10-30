@@ -9,7 +9,7 @@
     <groupId>com.camelinaction</groupId>
     <artifactId>parent</artifactId>
     <version>2.0.0</version>
-    <!--<relativePath>src</relativePath>-->
+    <relativePath>..</relativePath>
   </parent>
 
   <artifactId>goofing</artifactId>
