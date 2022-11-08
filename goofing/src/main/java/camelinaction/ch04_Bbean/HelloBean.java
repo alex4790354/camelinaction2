@@ -1,4 +1,4 @@
-package camelinaction.bean;
+package camelinaction.ch04_Bbean;
 
 public class HelloBean {
 

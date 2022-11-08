@@ -1,8 +1,8 @@
-package camelinaction;
+package camelinaction.ch03_converter;
 
 
-import camelinaction.pojo.Student;
-import camelinaction.pojo.Teacher;
+import camelinaction.ch03_converter.dto.Student;
+import camelinaction.ch03_converter.dto.Teacher;
 import junit.framework.TestCase;
 import org.apache.camel.CamelContext;
 import org.apache.camel.ProducerTemplate;

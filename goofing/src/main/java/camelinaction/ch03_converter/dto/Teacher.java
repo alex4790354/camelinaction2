@@ -1,4 +1,4 @@
-package camelinaction.pojo;
+package camelinaction.ch03_converter.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

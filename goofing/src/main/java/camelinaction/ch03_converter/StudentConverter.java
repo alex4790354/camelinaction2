@@ -1,7 +1,7 @@
-package camelinaction;
+package camelinaction.ch03_converter;
 
-import camelinaction.pojo.Student;
-import camelinaction.pojo.Teacher;
+import camelinaction.ch03_converter.dto.Student;
+import camelinaction.ch03_converter.dto.Teacher;
 import org.apache.camel.Converter;
 import org.apache.camel.Exchange;
 import org.apache.camel.TypeConverter;
